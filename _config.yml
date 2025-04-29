@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Harvey Quillan Goodman # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  BSc Chemistry Graduate 
   <br><br>
-  Second description 
+  Aspiring Data Scientist 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/harvey-goodman-079b7b208/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
