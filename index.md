@@ -5,6 +5,6 @@
 ### Data Analysis in R
 
 [BSc Project](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BSc_thumbnail.png?raw=true"/>
 
 ---
